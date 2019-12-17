@@ -1,0 +1,11 @@
+D:\Learn\C#\gradebook\src\bin\Debug\netcoreapp3.1\src.exe
+D:\Learn\C#\gradebook\src\bin\Debug\netcoreapp3.1\src.deps.json
+D:\Learn\C#\gradebook\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.json
+D:\Learn\C#\gradebook\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.dev.json
+D:\Learn\C#\gradebook\src\bin\Debug\netcoreapp3.1\src.dll
+D:\Learn\C#\gradebook\src\bin\Debug\netcoreapp3.1\src.pdb
+D:\Learn\C#\gradebook\src\obj\Debug\netcoreapp3.1\src.csprojAssemblyReference.cache
+D:\Learn\C#\gradebook\src\obj\Debug\netcoreapp3.1\src.AssemblyInfoInputs.cache
+D:\Learn\C#\gradebook\src\obj\Debug\netcoreapp3.1\src.AssemblyInfo.cs
+D:\Learn\C#\gradebook\src\obj\Debug\netcoreapp3.1\src.dll
+D:\Learn\C#\gradebook\src\obj\Debug\netcoreapp3.1\src.pdb
